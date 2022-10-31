@@ -1,0 +1,13 @@
+current directory: /Users/epasos/Work/DevRepo/mobile/cldreactnativeprj/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+/Users/epasos/.rvm/rubies/ruby-2.7.5/bin/ruby -I /Users/epasos/.rvm/rubies/ruby-2.7.5/lib/ruby/2.7.0 -r ./siteconf20221031-2306-y0eqn9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/epasos/Work/DevRepo/mobile/cldreactnativeprj/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/epasos/Work/DevRepo/mobile/cldreactnativeprj/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/epasos/Work/DevRepo/mobile/cldreactnativeprj/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" install
