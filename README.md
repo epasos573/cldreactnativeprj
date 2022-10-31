@@ -8,13 +8,10 @@ Installing dependencies:
 
 or
 
-`npm install axios@0.27.2`
-
-`npm i --save react-native-document-picker`
-
-`npm install --save rn-fetch-blob`
-
-`npm install react-native-fs --save`
+1. `npm install axios@0.27.2`
+2. `npm i --save react-native-document-picker`
+3. `npm install --save rn-fetch-blob`
+4. `npm install react-native-fs --save`
 
 Updating the project
 
