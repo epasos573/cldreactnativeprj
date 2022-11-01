@@ -130,7 +130,8 @@ const CldChunkUpload = () => {
         presentationStyle: "fullScreen",
       });
 
-      //console.log(response);
+      setUploadResponse("Processing...");
+
       setFileResponse(response);
 
       console.log("handleDocumentSelection: ", fileResponse);
